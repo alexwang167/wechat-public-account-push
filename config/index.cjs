@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'ab2f41b77c99b9b4c9c029b126813233',
 
-  PROVINCE: '',
-  CITY: '武夷山市',
+  PROVINCE: '福建',
+  CITY: '武夷山',
  SWITCH: {  
     // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     poetry: true,
