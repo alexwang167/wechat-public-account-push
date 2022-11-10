@@ -18,7 +18,7 @@ const USER_CONFIG = {
  SWITCH: {  
     // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     poetry: true,
-
+     weather: true,
     /** 星座运势 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
     horoscope: true,
